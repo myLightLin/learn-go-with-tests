@@ -1,3 +1,3 @@
-module github.com/myLightLin/learn-go-with-tests
+module github.com/learn-go-with-tests
 
 go 1.19
